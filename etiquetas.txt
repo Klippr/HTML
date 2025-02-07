@@ -2,4 +2,8 @@ TITULOS: <h1></h1>
 
 PÁRRAFOS: <p></p>
 
+LISTA ORDENADA: <ol></ol>
 
+ITEMS DE LISTA: <li></li>
+
+LISTA DESORDENADA: <ul></ul>
