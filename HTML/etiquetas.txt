@@ -46,6 +46,11 @@ carpeta/carpta : Dos carpetas alante
 
 <input>: Forma para pedir un dato
 
+CSS
+
+<link rel="stylesheet a href="styles.css">  conecta un archivo CSS al index en head
+
+
 
 
 
