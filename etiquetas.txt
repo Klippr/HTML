@@ -8,6 +8,7 @@ ITEMS DE LISTA: <li></li>
 
 LISTA DESORDENADA: <ul></ul>
 
-ENLACE: <a href=""></a>
+ENLACE: <a href=""></a> [Escribir a + Tab]
+
 
     
