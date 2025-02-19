@@ -18,6 +18,37 @@ target="_blank": abre enlace en nueva página
 
 title="": argumento de la accion
 
+src="": source indica la ruta del recurso requerido
+
+alt="": describe en texto la imagen si no carga
+
+type="": define el tipo de dato que es 
+
+value="": cambia un valor predefinido por el que le demos
+
+required: obliga a rellenar un input 
+
+name="": define el nombre de un campo dentro de input
+
+placeholder="": Texto descriptivo semitransparente en el campo
+
+minlength="3": caracteres minimos del input en required
+
+
+
+
+RUTAS
+
+../../ : Dos carpetas atras
+carpeta/carpta : Dos carpetas alante
+
+<form></form>: Crea un formulario
+
+<input>: Forma para pedir un dato
+
+
+
+
 
 
     
