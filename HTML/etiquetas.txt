@@ -34,6 +34,9 @@ placeholder="": Texto descriptivo semitransparente en el campo
 
 minlength="3": caracteres minimos del input en required
 
+class="": define una clase
+
+id="": define un elemento único
 
 
 

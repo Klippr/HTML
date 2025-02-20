@@ -1,4 +1,8 @@
-li {
+.faltan {
     color: red;
     
+}
+
+#ingrediente-secreto{
+    color: blue;
 }

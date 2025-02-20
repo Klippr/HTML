@@ -2,4 +2,11 @@ CSS
 
 <link rel="stylesheet a href="styles.css">  conecta un archivo CSS al index en head
 
+<span></span>: se utiliza para darle estilos a algo excepcional
+
+Usar <strong></strong> en vez de <b></b> para optimizar SEO
+
+
+PROPIEDADES DE TEXTO
+
 
