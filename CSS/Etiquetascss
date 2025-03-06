@@ -6,8 +6,12 @@ CSS
 
 Usar <strong></strong> en vez de <b></b> para optimizar SEO
 
+font-weight: bold = 700 // bolder
+
+5,5 no es un número válido en CSS, porque en CSS se usa punto (.) en lugar de coma (,) para los valores decimales.
+
 .clases
-# ID
+# ID {}
 
 PROPIEDADES DE TEXTO
 
@@ -17,14 +21,39 @@ font-family: sans-serif;
 
 font-size: 13px;
 
-font-weight: bold;
+font-weight: bold; 100/1000  // bolder
 
-font-style: oblique;
+font-style: oblique 40deg, normal, italic;
 
-text-align: center;
+text-align: center; (alinea al contenedor, a no ser que sea del mismo tamaño)
+
+text-decoration: underline overline;
+
+letter-spacing: 1px;
+    
+text-transform: uppercase, capitalize;
+
+
 
 SELECTORES
 
 <li></li>: elemetos de una <ul>(no-ordenada) y <ol>(ordenada)
 
-id=""
+id="" 
+
+
+TIPOGRAFÍAS
+
+1. Google Fonts
+2. Añadir, Copiar Link
+3. Head de HTML 
+
+CORRECTO => Crear un fonts.css 
+@font-face {
+    font-family: "Adnes" ;
+    src: url(/Fonts/Poppins-Regular.ttf) format("truetype");
+    font-weight: 400;
+}
+
+Asi con cada tamaño
+

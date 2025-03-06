@@ -1,10 +1,15 @@
 p {
     color: red;
-    font-family: sans-serif;
+    font-family: Adnes;
     font-size: 13px;
-    font-weight: bold;
+    font-weight: 400;
     font-style: oblique;
-    text-align: center;
+    text-align: center; 
+    text-decoration: underline;
+    line-height: 2.5;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+
 }
 
 h1{
