@@ -1,1 +1,18 @@
-Hola?
+WIDTH Y HEIGHT CUIDAO
+
+CONTENIDO O CONTENT
+
+Núcleo del box-model es el áre donde se muestra el texto
+
+PADDING O RELLENO
+
+Espacio entre el contenido y el borde del elemento. Separa el contenido del borde
+
+BORDER O BORDE
+
+Es una línea que rodea tanto al contenido como al padding, se puede controlar el
+estilo, el grosor y el color del borde.
+
+MARGEN O MARGIN 
+
+Es el espacio alrededor de la caja que está fuera del borde
