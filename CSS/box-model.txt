@@ -16,3 +16,5 @@ estilo, el grosor y el color del borde.
 MARGEN O MARGIN 
 
 Es el espacio alrededor de la caja que está fuera del borde
+
+margin: auto : centra horizontalmente los elementos a lo ancho del total
