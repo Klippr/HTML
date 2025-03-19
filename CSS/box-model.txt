@@ -13,6 +13,8 @@ BORDER O BORDE
 Es una línea que rodea tanto al contenido como al padding, se puede controlar el
 estilo, el grosor y el color del borde.
 
+border-width border-style border-color border-radius
+
 MARGEN O MARGIN 
 
 Es el espacio alrededor de la caja que está fuera del borde
