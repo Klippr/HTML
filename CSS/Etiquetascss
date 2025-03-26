@@ -1,4 +1,4 @@
-CSS
+﻿CSS
 
 <link rel="stylesheet a href="styles.css">  conecta un archivo CSS al index en head
 
@@ -73,3 +73,23 @@ rem busca el elemento raiz (html{}) y lo multiplica por el numero previo
 1vmin = 1vw cuando vw es menor que vh
  
 Ambas son unidades relativas como los porcentajes 
+
+FONDOS
+
+Orden de valores en la propiedad background
+
+1. Imagen (url)
+
+2. Position (top)
+
+Aqui siempre irá una barra /
+
+3. Size (cover)
+
+4. Repeat (no-repeat)
+
+5. Attachment (fixed)
+
+6. Color (#6fa)
+
+

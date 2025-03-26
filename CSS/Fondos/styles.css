@@ -1,0 +1,15 @@
+body {
+    background-color: #0f0;
+}
+
+.box {
+    width: 800px;
+    height: 800px;
+    margin: 20px;
+    background-color: #f3af;
+    background-image: url("https://www.dzoom.org.es/wp-content/uploads/2020/02/portada-foto-perfil-redes-sociales-consejos.jpg");
+    background-size: cover;
+    background-position: center;  
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+}
