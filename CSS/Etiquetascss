@@ -63,3 +63,13 @@ Asi con cada tamaño
 COLORES
 
 htmlcolorcodes.com
+
+UNIDADES DE MEDIDA
+
+em busca el font-size del elemento padre y lo multiplica por el número previo 
+rem busca el elemento raiz (html{}) y lo multiplica por el numero previo
+50vh/ vw viewportheight\weight calcula la mitad del viewport (ventana)
+1vmax = 1vh cuando vh es mayor que vw
+1vmin = 1vw cuando vw es menor que vh
+ 
+Ambas son unidades relativas como los porcentajes 
